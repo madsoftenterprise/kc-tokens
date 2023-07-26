@@ -2,19 +2,19 @@
   "main": {
     "interactive": {
       "light": {
-        "value": "#e6eeff",
+        "value": "#ebf7ff",
         "type": "color"
       },
       "light-hover": {
-        "value": "#b4cdff",
+        "value": "#87cefd",
         "type": "color"
       },
       "default": {
-        "value": "#689aff",
+        "value": "#0f9cfa",
         "type": "color"
       },
       "hover": {
-        "value": "#457ef0",
+        "value": "#0483d7",
         "type": "color"
       }
     },
