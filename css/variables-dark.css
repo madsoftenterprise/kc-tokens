@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 26 Jul 2023 14:51:55 GMT
+ * Generated on Wed, 26 Jul 2023 14:52:29 GMT
  */
 
 [data-theme=dark] {
@@ -89,10 +89,10 @@
   --validation-success-main: #45f067;
   --gray-unchangeable-900: #06080e;
   --gray-unchangeable-0: #fcfcfc;
-  --interactive-hover: #457ef0;
-  --interactive-default: #689aff;
-  --interactive-light-hover: #b4cdff;
-  --interactive-light: #e6eeff;
+  --interactive-hover: #0483d7;
+  --interactive-default: #0f9cfa;
+  --interactive-light-hover: #87cefd;
+  --interactive-light: #ebf7ff;
   --line-heights-x4: calc(var(--font-size-basic) * 4);
   --line-heights-x5: calc(var(--font-size-basic) * 5);
   --line-heights-x6: calc(var(--font-size-basic) * 6);

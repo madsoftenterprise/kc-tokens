@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 26 Jul 2023 14:51:52 GMT
+ * Generated on Wed, 26 Jul 2023 14:52:27 GMT
  */
 
 :root {
@@ -103,10 +103,10 @@
   --validation-success-main: #45f067;
   --gray-unchangeable-900: #06080e;
   --gray-unchangeable-0: #fcfcfc;
-  --interactive-hover: #457ef0;
-  --interactive-default: #689aff;
-  --interactive-light-hover: #b4cdff;
-  --interactive-light: #e6eeff;
+  --interactive-hover: #0483d7;
+  --interactive-default: #0f9cfa;
+  --interactive-light-hover: #87cefd;
+  --interactive-light: #ebf7ff;
   --macro-region-blue-alpha: #4ec6df99;
   --macro-region-blue: #4ec6df;
   --macro-region-dark-green-alpha: #45a04099;
